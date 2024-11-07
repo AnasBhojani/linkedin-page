@@ -13,9 +13,10 @@ position: sticky;
 }
 .brand{
 height: 60px;
-width: 60px;
+width: 70px;
 border-radius: 100%;
 margin: 2px 5px;
+position: sticky;
 
 
 }
@@ -50,6 +51,7 @@ border: 2px solid black;
 }
 .mainsec{
 position: relative;
+display: flex;
 
 }
 
@@ -67,6 +69,7 @@ margin-top: 30px;
 
 
 }
+
 .section2{
 
     height: 500px;
@@ -79,5 +82,248 @@ margin-top: 30px;
     
     
     
-    }
+ }
+ h2{
+margin: 0px 80px;
+position: absolute;
+top: 33%;
+font-family: fantasy;
+font-size: 20px;
+font-style: italic;
+
+ }
+ .profile{
+    width: 60px;
+    height: 60px;
+    border-radius: 85%;
+    position: absolute;
+    top: 18%;
+    right: 40%;
+   
+ }
+ .profile2{
+width: 300px;
+height: 25%;
+
+ }
+ .fa-graduation-cap{
+    margin: 0px 2px;
+    margin-top: 70px;
+    font-size: small;
+    padding: 3px 5px;
     
+ }
+ .para{
+
+   padding-right: 1px ;
+   margin-right: 2px;
+ }
+ .fa-envelope{
+   margin: 0px 2px;
+   padding: 3px 5px;
+ }
+ .fa-phone{
+   margin: 0px 2px;
+   padding: 3px 5px;
+ }
+ .fa-location-dot{
+   margin: 0px 2px;
+   padding: 3px 5px;
+ }
+ .para3{
+   padding-right: 1px ;
+   margin-right: 2px;
+ }
+ .fa-arrow-right{
+   margin: 0px 2px;
+   padding: 3px 5px;
+ }
+ .section2{
+
+
+ }
+ .hd1{
+margin:0px 10px ;
+position: absolute;
+top: 3%;
+left: 5%;
+
+ }
+ .fa-circle-exclamation{
+ 
+  
+  position: absolute;
+  top: 5%;
+  left: 1.5%;
+  color: blue;
+ }
+ h6{
+color: grey;
+font-weight: lighter;
+margin-left: 5px;
+
+ }
+ h4{
+margin-left: 5px;
+
+ }
+ h3{
+  margin-left: 5px;
+  color: blue;
+ }
+ .midsection{
+width: 500px;
+border: 1px solid black;
+position: absolute;
+top: 15%;
+left: 31%;
+height: 1000px;
+
+ }
+.part1{
+height: 100px;
+width: 450px;
+border: 1px solid black;
+position: absolute;
+top: 2%;
+left: 4%;
+border-collapse: collapse;
+
+}
+.post{
+margin: 10px 10px;
+height: 30px;
+width: 30px;
+border-radius: 100%;
+box-shadow: 0px 10px 10px grey;
+
+
+}
+h5{
+ position: absolute;
+ left: 15%;
+ top: 20%;
+ font-weight: 5px;
+  
+}
+.icon{
+
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  box-shadow: 0px 10px 10px grey;
+ 
+}
+.fa-calendar-minus{
+  height: 10px;
+  margin: 0px 70px;
+ 
+  
+}
+
+.fa-camera{
+  height: 10px;
+  padding: 8px 60px;
+  margin-bottom: 70px;
+  margin-right: 20px;
+  
+}
+.fa-video{
+  height: 10px;
+  padding: 8px 30px;
+  margin-bottom: 70px;
+  margin-right: 20px;
+  
+}
+.part2{
+  height: 400px;
+width: 400px;
+border: 1px solid white;
+position: absolute;
+top: 14%;
+left: 10%;
+box-shadow: 0px 3px 4px black;
+
+}
+.pic1{
+  margin: 10px 15px;
+height: 60px;
+width: 50px;
+border-radius: 100%;
+
+
+}
+.hd3{
+position: absolute;
+top: 6%;
+left: 15%;
+color: black;
+
+}
+.head6{
+font-weight: 5px;
+position: absolute;
+top: 13%;
+left: 15%;
+}
+.hd7{
+color: black;
+font-weight: 10px;
+position: absolute;
+top:17% ;
+left: 15%;
+
+}
+p{
+margin: 0px 5px;
+
+
+}
+.officepic{
+height: 200px;
+width: 400px;
+
+
+
+}
+.part3{
+  height: 400px;
+  width: 400px;
+  border: 1px solid white;
+  position: absolute;
+  top: 58%;
+  left: 10%;
+  box-shadow: 0px 3px 4px black;
+}
+.pic2{
+  margin: 10px 15px;
+  height: 60px;
+  width: 50px;
+  border-radius: 100%;
+  
+}
+.acchold{
+  color: black;
+  font-weight: 10px;
+  position: absolute;
+  top:5% ;
+  left: 15%;
+}
+.hd8{
+position: absolute;
+top: 15%;
+left: 15%;
+color: black;
+
+}
+.heading{
+position: absolute;
+top: 12%;
+left: 15%;
+
+}
+.officepic2{
+
+  height: 200px;
+  width: 400px;
+}
